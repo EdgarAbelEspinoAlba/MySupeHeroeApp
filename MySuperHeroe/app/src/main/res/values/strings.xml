@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MySuperHeroeApp</string>
+    <string name="characterimage">CharacterImage</string>
+    <string name="charactername">CharacterName</string>
+    <string name="marvel_universe_app">MARVEL UNIVERSE APP</string>
+</resources>
